@@ -1,5 +1,5 @@
 # packaging
-cx_Freeze==5.1.1
+cx-Freeze==6.0
 
 # testing
 pytest
